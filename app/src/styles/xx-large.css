@@ -1,0 +1,24 @@
+@media screen  and (min-width: 1200px)  {
+    *{
+        box-sizing: border-box;
+    }
+
+    html,body{
+        height: 100%;
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        display: block;
+        background-color: #fff;
+    }
+
+    .header{
+        height: 70px;
+        width: 100%;
+        margin: 0;
+
+        background-color: #000;
+    }
+
+
+}
